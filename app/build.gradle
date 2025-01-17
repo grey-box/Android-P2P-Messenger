@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+    namespace 'com.example.p2pmessenger'
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.example.p2pmessenger"
